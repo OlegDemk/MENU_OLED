@@ -310,6 +310,11 @@ void print_menu_init(void)
 		ssd1306_UpdateScreen();
 
 		currentItem_buff = currentItem_buff -> down;
+
+		if(currentItem_buff == 0)						// If no menu item
+		{
+			break;
+		}
 	}
 	scroll_bar();
 }
