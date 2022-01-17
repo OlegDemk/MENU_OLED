@@ -1,7 +1,7 @@
 # MENU OLED
 OLED ssd1306 128х64 + stm32f103c8t. STM32IDE, HAL.
 
-Menu woe created using four connected lists. This is a prototype for the menu. It can be customized to suit your needs. 
+Menu created using four connected lists. This is a prototype for the menu. It can be customized to suit your needs. 
 
 Video: https://www.youtube.com/watch?v=lXIVXaiC9_o
 
